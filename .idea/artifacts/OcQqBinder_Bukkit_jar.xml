@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OcQqBinder-Bukkit:jar">
+    <output-path>$PROJECT_DIR$/../../../../mc_test_servers/spigot_112_0/plugins</output-path>
+    <root id="archive" name="OcQqBinder-Bukkit.jar">
+      <element id="module-output" name="OcQqBinder-Bukkit" />
+    </root>
+  </artifact>
+</component>

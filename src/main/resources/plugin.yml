@@ -1,0 +1,6 @@
+name: OcQqBinder-Bukkit
+main: vip.ourcraft.mcserverplugins.ocqqbinderforbukkit.OcQqBinder
+author: July_ss
+version: 1.0.0
+commands:
+  qq:
